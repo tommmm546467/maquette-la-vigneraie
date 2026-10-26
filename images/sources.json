@@ -1,0 +1,310 @@
+{
+ "vignes/portail.jpg": {
+  "source": "site/1.-1-Les-vignes-du-Pouilly-Fuissé.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 360,
+  "largeur": 1920
+ },
+ "vignes/rangs.jpg": {
+  "source": "gdf/gdf-25.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vignes/ete.jpg": {
+  "source": "gdf/gdf-00.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vignes/muret.jpg": {
+  "source": "gdf/gdf-01.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vignes/ceps.jpg": {
+  "source": "gdf/gdf-07.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vignes/automne.jpg": {
+  "source": "site/1.4-Les-vignes-automnales.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1600
+ },
+ "vignes/raisins.jpg": {
+  "source": "site/1.6-Le-résultat-dune-bonne-année-.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1400
+ },
+ "vignes/vendanges.jpg": {
+  "source": "site/1.5-Les-vendanges-en-septembre.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "village/panneau.jpg": {
+  "source": "site/1.-2-Le-Village-vous-accueil.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1400
+ },
+ "village/lavoir.jpg": {
+  "source": "site/1.8-Le-lavoir-du-17eme-siecle.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "village/sentier.jpg": {
+  "source": "site/1.9-Le-sentier-vers-les-vignes.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "village/eglise.jpg": {
+  "source": "site/1.7-Le-village-sympatique.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "maison/facade.jpg": {
+  "source": "gdf/gdf-05.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "maison/facade-jardin.jpg": {
+  "source": "gdf/gdf-02.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 100,
+  "largeur": 719
+ },
+ "maison/terrasse.jpg": {
+  "source": "gdf/gdf-04.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "maison/jardinet.jpg": {
+  "source": "gdf/gdf-06.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "maison/vue-cour.jpg": {
+  "source": "gdf/gdf-22.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "maison/cuisine-ete.jpg": {
+  "source": "gdf/gdf-26.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "maison/domaine.jpg": {
+  "source": "site/2.-1-Le-Domaine-Sophie-Cinier.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1400
+ },
+ "maison/jardin-fleuri.jpg": {
+  "source": "site/2.-6-Lieu-paisible-au-jardin.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1400
+ },
+ "vie/petit-dejeuner.jpg": {
+  "source": "gdf/gdf-08.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vie/salon.jpg": {
+  "source": "gdf/gdf-09.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vie/salon-vignes.jpg": {
+  "source": "gdf/gdf-10.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vie/table.jpg": {
+  "source": "gdf/gdf-11.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vie/cuisine.jpg": {
+  "source": "gdf/gdf-12.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vie/piece.jpg": {
+  "source": "gdf/gdf-13.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "vie/piece-escalier.jpg": {
+  "source": "gdf/gdf-27.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "pouilly-fuisse/chambre.jpg": {
+  "source": "gdf/gdf-03.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "pouilly-fuisse/lit.jpg": {
+  "source": "gdf/gdf-14.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "pouilly-fuisse/coin-salon.jpg": {
+  "source": "gdf/gdf-15.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "pouilly-fuisse/klimt.jpg": {
+  "source": "gdf/gdf-16.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "pouilly-fuisse/bureau.jpg": {
+  "source": "gdf/gdf-17.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "pouilly-fuisse/porte.jpg": {
+  "source": "site/5.-1-Lentrée-de-la-chambre-Pouilly-Fuissé.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "pouilly-fuisse/lit-matin.jpg": {
+  "source": "site/5.-2-Chambre-Pouilly-Fuissé.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "saint-veran/chambre.jpg": {
+  "source": "gdf/gdf-20.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "saint-veran/lit.jpg": {
+  "source": "gdf/gdf-21.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 125,
+  "largeur": 1400
+ },
+ "saint-veran/entree.jpg": {
+  "source": "site/4.-1-Lentrée-de-la-chambre-St.-Véran-1.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "saint-veran/bureau.jpg": {
+  "source": "site/4.-3-Chambre-et-salle-de-bain-1.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 1024
+ },
+ "saint-veran/rideaux.jpg": {
+  "source": "site/4.-2-Chambre-St.-Véran.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0,
+  "largeur": 640
+ },
+ "eau/vasque.jpg": {
+  "source": "gdf/gdf-18.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 100,
+  "largeur": 719
+ },
+ "eau/douche.jpg": {
+  "source": "gdf/gdf-19.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 100,
+  "largeur": 719
+ },
+ "eau/douche-2.jpg": {
+  "source": "gdf/gdf-23.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 100,
+  "largeur": 719
+ },
+ "eau/vasque-2.jpg": {
+  "source": "gdf/gdf-24.jpg",
+  "gites_de_france": true,
+  "rogne_haut": 100,
+  "largeur": 719
+ },
+ "region/solutre.jpg": {
+  "source": "commons/solutre.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "region/vergisson.jpg": {
+  "source": "commons/vergisson.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "region/cluny.jpg": {
+  "source": "commons/cluny.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "region/tournus.jpg": {
+  "source": "commons/tournus.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "region/brancion.jpg": {
+  "source": "commons/brancion.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "region/solutre-sommet.jpg": {
+  "source": "commons/solutre-sommet.jpg",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "grappe-blanc.png": {
+  "source": "dessinée (outils/preparer-images.py)",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "grappe-sombre.png": {
+  "source": "dessinée (outils/preparer-images.py)",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "logo-blanc.png": {
+  "source": "dessiné (outils/preparer-images.py)",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ },
+ "favicon.png": {
+  "source": "dessiné",
+  "gites_de_france": false,
+  "rogne_haut": 0
+ }
+}
